@@ -1,0 +1,11 @@
+{
+  "name": "@hardiksjain/redis",
+  "description": "A lightweight Redis clone implemented in TypeScript, featuring core Redis commands and key expiration functionality.",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run src/main.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
